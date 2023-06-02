@@ -16,14 +16,12 @@ function updateAPIURLWithNewCount(picCount) {
   apiUrl = `https://api.unsplash.com/photos/random/?client_id=${APIKEY}&count=${picCount}`;
 }
 
-// helper function set attributes
 function setAttributes(element, attributes) {
   for (const key in attributes) {
     element.setAttribute(key, attributes[key]);
   }
 }
 
-// check if all img loaded
 function imageLoaded() {
   imagesLoaded++;
 
@@ -33,12 +31,10 @@ function imageLoaded() {
   }
 }
 
-// create elements for links in photos, add to DOM
 function displayPhotos() {
   imagesLoaded = 0;
   totalImages = photosArray.length;
 
-  // run for each obj in arr
   photosArray.forEach((photo) => {
     const item = document.createElement('a');
     setAttributes(item, {
@@ -53,7 +49,6 @@ function displayPhotos() {
       title: photo.alt_description,
     });
 
-    // check for img loaded
     img.addEventListener('load', imageLoaded);
 
     item.appendChild(img);
@@ -61,7 +56,6 @@ function displayPhotos() {
   });
 }
 
-// get photos
 async function fetchPhotos() {
   try {
     const response = await fetch(apiUrl);
@@ -89,7 +83,6 @@ function checkScrollPosition() {
   }
 }
 
-// check if scrolling near bottom
 window.addEventListener('scroll', checkScrollPosition);
 
 fetchPhotos();
