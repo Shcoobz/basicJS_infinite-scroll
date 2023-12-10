@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 // Define your Unsplash API key and initial count of images to load
-const APIKEY = process.env.UNSPLASH_API_KEY;
+const APIKEY = 'AO2ra6u4sQgTEKaqK6UYwVlZc4mB1LLpGNMAgmy10mY';
 let INITIAL_COUNT = 5;
 
 // Create the initial API URL
