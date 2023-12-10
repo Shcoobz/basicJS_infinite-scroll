@@ -1,6 +1,6 @@
 # Infinite Scroll
 
-![Infinite Scroll](img/screenshot.png)
+![Infinite Scroll](img/infinity-scroll.png)
 
 This web application uses the Unsplash API to provide an infinite scroll of random images. It's a great way to explore and display beautiful images fetched from Unsplash.
 
