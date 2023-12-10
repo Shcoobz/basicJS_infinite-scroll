@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100;1,500&display=swap');
 
+/* Reset some default styles and set a background */
 html {
   box-sizing: border-box;
 }
@@ -20,7 +21,6 @@ h1 {
 }
 
 /* Loader */
-
 .loader {
   position: fixed;
   top: 0;
