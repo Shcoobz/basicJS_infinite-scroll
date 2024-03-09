@@ -1,4 +1,4 @@
-# Infinite Scroll
+# [LIVE DEMO](https://shcoobz.github.io/infinite-scroll/) -> Infinite Scroll
 
 ![Infinite Scroll](img/infinity-scroll.png)
 
@@ -9,7 +9,7 @@ This web application uses the Unsplash API to provide an infinite scroll of rand
 
 ## Table of Contents
 
-- [Infinite Scroll](#infinite-scroll)
+- [LIVE DEMO -\> Infinite Scroll](#live-demo---infinite-scroll)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
