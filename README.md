@@ -1,11 +1,8 @@
 # [LIVE DEMO](https://shcoobz.github.io/infinite-scroll/) -> Infinite Scroll
 
-![Infinite Scroll](img/infinity-scroll.png)
+![Infinite Scroll](img/infinite-scroll.png)
 
-This web application uses the Unsplash API to provide an infinite scroll of random images. It's a great way to explore and display beautiful images fetched from Unsplash.
-
-[Live Demo](https://shcoobz.github.io/infinite-scroll/)
-[GitHub Repository](https://github.com/Shcoobz/infinite-scroll)
+Infinite Scroll uses the Unsplash API to provide an infinite scroll of random images. It's a great way to explore and display beautiful images fetched from Unsplash.
 
 ## Table of Contents
 
