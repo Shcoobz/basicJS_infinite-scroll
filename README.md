@@ -1,6 +1,6 @@
-# Infinite Scroll -> [LIVE DEMO](https://shcoobz.github.io/infinite-scroll/)
+# basicJS_Infinite Scroll -> [LIVE DEMO](https://shcoobz.github.io/basicJS_infinite-scroll/)
 
-![Infinite Scroll](img/infinite-scroll.png)
+![Infinite Scroll](img/basicJS_infinite-scroll.png)
 
 ## Summary
 
