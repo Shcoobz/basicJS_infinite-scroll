@@ -1,4 +1,4 @@
-# basicJS_Infinite Scroll -> [LIVE DEMO](https://shcoobz.github.io/basicJS_infinite-scroll/)
+# basicJS_Infinite Scroll: [LIVE DEMO](https://shcoobz.github.io/basicJS_infinite-scroll/)
 
 ![Infinite Scroll](img/basicJS_infinite-scroll.png)
 
